@@ -11,4 +11,4 @@ MDN Language Redirector is a browser extension that ensures that you're always b
 ## Install
 
 - [Chrome extension](https://chrome.google.com/webstore/detail/mdn-language-redirector/phkkdccpgglghcdikkcalajiigdccnbo)
-- Firefox add-on (coming soon)
+- [Firefox add-on](https://addons.mozilla.org/nl/firefox/addon/mdn-language-redirector/)
