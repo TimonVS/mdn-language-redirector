@@ -1,0 +1,20 @@
+{
+  "name": "MDN Language Redirector",
+  "version": "1.0",
+  "description": "",
+  "background": {
+    "page": "background.html",
+    "persistent": true
+  },
+  "permissions": [
+    "webRequest",
+    "*://developer.mozilla.org/*",
+    "webRequestBlocking",
+    "storage"
+  ],
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  },
+  "manifest_version": 2
+}
