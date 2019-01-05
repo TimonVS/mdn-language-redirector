@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "Browse MDN in your preferred language.",
   "icons": {
-    "256": "images/icon256.png"
+    "128": "assets/icon128.png"
   },
   "background": {
     "page": "background.html",
