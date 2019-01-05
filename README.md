@@ -1,12 +1,12 @@
 <div align="center">
   <img src="./extension/assets/icon256.png" width="128" height="128" />
-  <h1>MDN Lanuage Redirector</h1>
+  <h1>MDN Language Redirector</h1>
   <p>
     <strong>Browse MDN in your preferred language.</strong>
   </p>
 </div>
 
-Ever had to switch the language on MDN because it wasn't in your preferred language? I had to do this all the time because Google would direct me to the Dutch version of MDN. With the MDN Language Redirector extension for Chrome you will always browse MDN in your preferred language.
+MDN Language Redirector is a browser extension that ensures that you're always browsing MDN in your preferred language. No more having to switch to another language manually, this extension handles it automatically.
 
 ## Install
 
