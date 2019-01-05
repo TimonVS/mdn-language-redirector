@@ -16,5 +16,8 @@
     "page": "options.html",
     "open_in_tab": false
   },
+  "icons": {
+    "256": "images/icon256.png"
+  },
   "manifest_version": 2
 }
