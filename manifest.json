@@ -1,7 +1,10 @@
 {
   "name": "MDN Language Redirector",
   "version": "1.0",
-  "description": "",
+  "description": "Browse MDN in your preferred language.",
+  "icons": {
+    "256": "images/icon256.png"
+  },
   "background": {
     "page": "background.html",
     "persistent": true
@@ -15,9 +18,6 @@
   "options_ui": {
     "page": "options.html",
     "open_in_tab": false
-  },
-  "icons": {
-    "256": "images/icon256.png"
   },
   "manifest_version": 2
 }
